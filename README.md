@@ -1,4 +1,2 @@
 # oops-by-Bibek
-All assignment of oops
-pls solve question by ur own
-this is bibek
+OOPS TUTORIAL
